@@ -5,7 +5,6 @@
     "RepositoryIcon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/iconrepo.jpeg",
     "RepositoryWebsite": "https://github.com/sadending-ios/sadending.github.io",
     "DefaultHeaderImage": "",
-    "ViewCount": true,
     "RepositoryContents": [
         {
             "Name": "Ringtones Customer",
@@ -23,6 +22,7 @@
                     }
                 ]
             },
+            "ViewCount": true,
             "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/icontweaks.gif",
             "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/biatweaks.jpeg",
             "Category": "Settings",
