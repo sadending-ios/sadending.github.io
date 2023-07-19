@@ -1,0 +1,40 @@
+{
+    "RepositoryName": "🇻🇳 Scarlet Tips 🇻🇳",
+    "RepositoryDescription": "Tweaks For MDC ❄️",
+    "RepositoryAuthor": "Hùng Anhh ❤️ ft CG Gió 🇻🇳",
+    "RepositoryIcon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/iconrepo.jpeg",
+    "RepositoryWebsite": "",
+    "DefaultHeaderImage": "",
+    "RepositoryContents": [
+        {
+            "Name": "Ringtones Customer",
+            "Description": "Import your Ringtones for MDC Devices",
+            "Author": {
+                "Label": "🇻🇳 Scarlet Tips 🇻🇳",
+                "Links": [
+                    {
+                        "Label": "Hùng Anhh ❤️",
+                        "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+                    },
+                    {
+                        "Label": "CG Gió 🇻🇳",
+                        "Link": "https://www.facebook.com/MinhThinh14021997?mibextid=LQQJ4d"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/icontweaks.gif",
+            "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/biatweaks.jpeg",
+            "Category": "Settings",
+            "Caption": "Custom your Ringtones for MDC Devices\nIdeaby Hùng Anhh ❤️ ft CG Gió 🇻🇳.",
+            "Screenshot": ["https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/screenshot.png"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/sadending-ios/sadending.github.io/raw/80d7a4e0b3c8a42512f13433eb7555c525e897a8/Misaka%20Tweaks/Ringtones%20Customer/com.ringstonescustomer.hamt.misaka",
+                    "Description": "First release"
+                },
+            ],
+            "PackageID": "com.ringtonescustomer.hamt"
+        }
+    ]
+}
