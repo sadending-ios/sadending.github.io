@@ -13,17 +13,33 @@
 					<key>url</key>
 					<string>https://github.com/sadending-ios/sadending.github.io/raw/main/Signed%20IPA/WDBRemoveThreeAppLimit_1.0_1690832099.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/my-khoindvn/my-khoindvn.github.io/main/khoindvn.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>Khơindvn</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.worthdoingbadly.WDBRemoveThreeAppLimit</string>
+				<string>p3.xyz.yyyue.esign-khơindvn1</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>IPA Name</string>
+				<string>ESign</string>
 			</dict>
 		</dict>
 	</array>
