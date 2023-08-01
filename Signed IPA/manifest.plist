@@ -15,7 +15,16 @@
 				</dict>
 			</array>
 			<key>metadata</key>
-			<dict/>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.worthdoingbadly.WDBRemoveThreeAppLimit</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>IPA Name</string>
+			</dict>
 		</dict>
 	</array>
 </dict>
