@@ -1,6 +1,6 @@
 {
   "RepositoryName": "🇻🇳 Scarlet Tips 🇻🇳",
-  "RepositoryDescription": "Tweaks For MDC ❄️",
+  "RepositoryDescription": "Tweaks For MDC/KFD Devices ☃️",
   "RepositoryAuthor": "Hùng Anhh ❤️ ft CG Gió 🇻🇳",
   "RepositoryIcon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/iconrepo.jpeg",
   "RepositoryWebsite": "https://github.com/sadending-ios/sadending.github.io",
@@ -24,9 +24,9 @@
   "RepositoryContents": [
     {
       "Name": "Ringtones Customer",
-      "Description": "Import your Ringtones for MDC Devices",
+      "Description": "Import your Ringtones for MDC/KFD Devices",
       "Category": "Settings",
-      "Caption": "Custom your Ringtones for MDC Devices\nIdeaby Hùng Anhh ❤️ ft CG Gió 🇻🇳.",
+      "Caption": "Custom your Ringtones for MDC/KFD Devices\nMakeby Hùng Anhh ❤️ ft CG Gió 🇻🇳.",
       "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/icontweaks.gif",
       "Screenshot": [
         "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/screenshot.PNG",
