@@ -1,0 +1,98 @@
+{
+  "RepositoryName": "🇻🇳 Scarlet Tips 🇻🇳",
+  "RepositoryDescription": "Tweaks For MDC/KFD Devices ☃️",
+  "RepositoryAuthor": "Hùng Anhh ❤️ ft CG Gió 🇻🇳",
+  "RepositoryIcon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/iconrepo.jpeg",
+  "RepositoryWebsite": "https://github.com/sadending-ios/sadending.github.io",
+  "Default": {
+    "HeaderImage": "",
+    "Author": {
+      "Label": "🇻🇳 Scarlet Tips 🇻🇳",
+      "Links": [
+        {
+          "Label": "Hùng Anhh ❤️",
+          "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+        },
+        {
+          "Label": "CG Gió 🇻🇳",
+          "Link": "https://www.facebook.com/MinhThinh14021997?mibextid=LQQJ4d"
+        }
+      ]
+    },
+    "ViewCount": true
+  },
+  "RepositoryContents": [
+    {
+      "Name": "Ringtones Customer",
+      "Description": "Import your Ringtones for MDC Devices",
+      "Category": "Settings",
+      "Caption": "Custom your Ringtones for MDC Devices\nMakeby Hùng Anhh ❤️ ft CG Gió 🇻🇳.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/icontweaks.gif",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/screenshot.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Screenshot/IMG_1828.jpg",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Screenshot/IMG_1831.jpg",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Screenshot/IMG_1832.jpg",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Screenshot/IMG_1833.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/d476816d7e52a86c38260d4f3def3d762a4d585f/Misaka%20Tweaks/Ringtones%20Customer/com.ringtonescustomer.hamt.misaka",
+          "Description": "First tweak"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/v1.1/com.ringtonescustomer.hamt.misaka",
+          "Description": "One more option for Alarms Tone\nNew way to convert video or music to m4r file."
+        }
+      ],
+      "PackageID": "com.ringtonescustomer.hamt",
+      "Author": {
+        "Label": "🇻🇳 Scarlet Tips 🇻🇳",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ❤️",
+            "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+          },
+          {
+            "Label": "CG Gió 🇻🇳",
+            "Link": "https://www.facebook.com/MinhThinh14021997?mibextid=LQQJ4d"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/biatweaks.jpeg",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "MaxIOSVersion": "16.1.2",
+      "PackageID": "com.cggio.appleicon",
+      "Category": "Lock Screen",
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": ".Misaka",
+          "Description": "First tweak"
+        }
+      ],
+      "Icon": "",
+      "Name": "Apple Icon",
+      "Caption": "Change default Face ID icon to Apple icon 🍎",
+      "Screenshot": [
+        "https://t.me/ScarletTipsChat/273056"
+      ],
+      "MinIOSVersion": "15.0",
+      "HeaderImage": "ảnh bìa"
+    }
+  ]
+}
