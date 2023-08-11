@@ -64,6 +64,35 @@
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/biatweaks.jpeg",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.1.2"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "MaxIOSVersion": "16.1.2",
+      "PackageID": "com.cggio.appleicon",
+      "Category": "Lock Screen",
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/com.cggio.appleicon.misaka",
+          "Description": "First tweak"
+        }
+      ],
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/icon.png",
+      "Name": "Apple Icon",
+      "Caption": "Change default Face ID icon to Apple icon 🍎",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/screenshot.png"
+      ],
+      "MinIOSVersion": "15.0",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/header.jpg"
     }
   ]
 }
