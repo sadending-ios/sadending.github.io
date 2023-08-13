@@ -94,33 +94,6 @@
       "MinIOSVersion": "15.0",
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/header.jpg",
       "Description": "Change default Face ID icon to Apple icon 🍎"
-    },
-    {
-      "Author": {
-        "Label": "CG Gió",
-        "Link": [
-          {
-            "Label": "CG Gió",
-            "Link": "https://www.facebook.com/MinhThinh14021997"
-          }
-        ]
-      },
-      "MaxIOSVersion": "16.1.2",
-      "MinIOSVersion": "15.0",
-      "PackageID": "com.cggio.doremonicon",
-      "Name": "Doremon Icon",
-      "Description": "Change Face ID icon default to Doremon icon 🥰",
-      "Category": "Lock Screen",
-      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/Icon.png",
-      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/DA4168CB-8D9E-4211-937B-13402715D3C9.PNG",
-      "Screenshot": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/IMG_0529.PNG",
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Description": "Frist tweak",
-          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/com.cggio.doremonicon.misaka"
-        }
-      ]
     }
   ]
 }
