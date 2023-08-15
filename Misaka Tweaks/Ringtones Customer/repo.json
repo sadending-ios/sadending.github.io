@@ -173,7 +173,7 @@
       "Description": "Change Customize Notification Text",
       "Category": "Notification",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
+      "MaxIOSVersion": "15.7.1",
       "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Icon.png",
       "PackageID": "com.cggio.customizenotification",
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
@@ -187,11 +187,6 @@
           "Version": "1.0",
           "Description": "Frist tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/com.cggio.customizenotification.misaka"
-        },
-        {
-          "Version": "1.1",
-          "Description": "Support 5 language\n- Việt Nam 🇻🇳\n- English 🌎\n- Japan 🇯🇵\n- China 🇨🇳\n- United Kingdom 🇬🇧",
-          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Version%201.1/com.cggio.customizenotification.misaka"
         }
       ],
       "Caption": "Change \"Notification Center\" and \"No older notifications\" to the text you want"
