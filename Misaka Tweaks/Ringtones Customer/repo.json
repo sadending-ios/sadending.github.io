@@ -178,13 +178,20 @@
       "PackageID": "com.cggio.customizenotification",
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
       "Screenshot": [
-        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/CEB89CD0-AAB1-4B3E-ADBF-BE2EF555C7A5.png"
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/CEB89CD0-AAB1-4B3E-ADBF-BE2EF555C7A5.png",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Version%201.1/Demo%201.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Version%201.1/Demo%202.PNG"
       ],
       "Releases": [
         {
           "Version": "1.0",
           "Description": "Frist tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/com.cggio.customizenotification.misaka"
+        },
+        {
+          "Version": "1.1",
+          "Description": "Support 5 language\n- Việt Nam 🇻🇳\n- English 🌎\n- Japan 🇯🇵\n- China 🇨🇳\n- United Kingdom 🇬🇧",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Version%201.1/com.cggio.customizenotification.misaka"
         }
       ],
       "Caption": "Change \"Notification Center\" and \"No older notifications\" to the text you want"
