@@ -196,6 +196,37 @@
         }
       ],
       "Caption": "Change \"Notification Center\" and \"No older notifications\" to the text you want"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "Name": "Customize Lock Screen",
+      "Description": "Change Customize Lock Screen",
+      "Category": "Lock Screen",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.8",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Lock%20Screen%20and%20Passcode/Demo/Lock%20Screen/Icon%20Tweak/Icon.png",
+      "PackageID": "com.cggio.customizelockscreen",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Lock%20Screen%20and%20Passcode/Demo/Lock%20Screen/Screen/Screen%201.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Lock%20Screen%20and%20Passcode/Demo/Lock%20Screen/Screen/Screen%202.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Lock%20Screen%20and%20Passcode/Demo/Lock%20Screen/com.cggio.customizelockscreen.misaka"
+        }
+      ],
+      "Caption": "Change value:\n- Swipe to unlock\n- Swipe to open\n- Press home to unlock\n- Press home to open\n- Battery charge percentage"
     }
   ]
 }
