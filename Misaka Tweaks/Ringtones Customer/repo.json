@@ -259,6 +259,68 @@
         }
       ],
       "Caption": "Change value:\n- Swipe to unlock\n- Swipe to open\n- Press home to unlock\n- Press home to open\n- Battery charge percentage"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "Name": "Quick Sand Font",
+      "Description": "Change default Apple font to Quick Sand font",
+      "Category": "Font",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.8",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/Icon/Icon.png",
+      "PackageID": "com.cggio.quicksandfont",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Screen/Demo%201.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Screen/Demo%203.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Screen/Demo%202.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Version/com.cggio.quicksandfont.misaka"
+        }
+      ],
+      "Caption": "Thank you Uncle Phúc for taking the time and effort to correct the font\nLove you so much 😍\n\nChange:\n- SFUI\n- SFUISotf\n- Keycaps\n- KeyCapPad\n- PhoneKeyCap"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "Name": "Delete Caches Keybroads",
+      "Description": "Delete caches keybroad when your use font",
+      "Category": "Font",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.9",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Delete%20Caches%20Keybroads/Icon/753DF7B1-784C-49F7-BB23-A1396995E703.png",
+      "PackageID": "com.cggio.deletecacheskeybroads",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Delete%20Caches%20Keybroads/Version/com.cggio.deletecacheskeybroads.misaka"
+        }
+      ],
+      "Caption": "When using tweak keyboard input ( Keycaps, KeyCapPad, PhoneKeyCap ) does not return to default after a period of use 🥰"
     }
   ]
 }
