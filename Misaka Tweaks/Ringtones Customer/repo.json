@@ -291,6 +291,74 @@
         }
       ],
       "Caption": "Thank you, Uncle Phúc ( p0s3id0n ) for taking the time to edit the font\nLove you so much 😍\nChange:\n- SFUI\n- SFUISoft\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió & p0s3id0n",
+        "Link": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://twitter.com/cgnerverlove"
+          },
+          {
+            "Label": "p0s3ids0n",
+            "Link": "https://twitter.com/phucnguyenads"
+          }
+        ]
+      },
+      "Name": "LS lsoneui",
+      "Description": "Change default Clock font Apple to LS lsoneui",
+      "Category": "Font",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.9",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Icon/Icon.png",
+      "PackageID": "com.p0s3id0n.lsoneui15",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Screen/3A219BCF-4190-45E8-805C-F3556A2234B5.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Version/15/com.p0s3id0n.lsoneui15.misaka"
+        }
+      ],
+      "Caption": "Thank you, Uncle Phúc ( p0s3id0n ) for taking the time to edit the font\nLove you so much 😍"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió & p0s3id0n",
+        "Link": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://twitter.com/cgnerverlove"
+          },
+          {
+            "Label": "p0s3ids0n",
+            "Link": "https://twitter.com/phucnguyenads"
+          }
+        ]
+      },
+      "Name": "LS lsoneui",
+      "Description": "Change default Clock font Apple to LS lsoneui",
+      "Category": "Font",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.9",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Icon/Icon.png",
+      "PackageID": "com.p0s3id0n.lsoneui16",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Screen/Demo.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Version/16/com.p0s3id0n.lsoneui16.misaka"
+        }
+      ],
+      "Caption": "Thank you, Uncle Phúc ( p0s3id0n ) for taking the time to edit the font\nLove you so much 😍"
     }
   ]
 }
