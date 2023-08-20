@@ -294,6 +294,38 @@
     },
     {
       "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "Name": "Quick Sand Font 16",
+      "Description": "Change default Apple font to Quick Sand font",
+      "Category": "Font",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.9",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/Icon/Icon.png",
+      "PackageID": "com.cggio.quicksandfont16",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Screen/Demo%201.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Screen/Demo%203.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Screen/Demo%202.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/16/com.cggio.quicksandfont16.misaka"
+        }
+      ],
+      "Caption": "Thank you, Uncle Phúc ( p0s3id0n ) for taking the time to edit the font\nLove you so much 😍\nChange:\n- SFUI\n- SFUISoft\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps"
+    },
+    {
+      "Author": {
         "Label": "CG Gió & p0s3id0n",
         "Link": [
           {
