@@ -372,7 +372,7 @@
           }
         ]
       },
-      "Name": "LS lsoneui",
+      "Name": "LS lsoneui 16",
       "Description": "Change default Clock font Apple to LS lsoneui",
       "Category": "Font",
       "MinIOSVersion": "16.0",
