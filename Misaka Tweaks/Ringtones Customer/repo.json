@@ -423,7 +423,38 @@
         {
           "Version": "1.1",
           "Description": "Add delete caches keyboards",
-          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/1.1/com.cggio.customizefont15.misaka"
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/com.cggio.customizefont15.misaka"
+        }
+      ],
+      "Caption": "Change font you want:\n- SFUISoft\n- SFUI\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps\nOther languages ​​I don't know. Good support Vietnamese language and all English language"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "Name": "Customize Font 16",
+      "Description": "Change default Font Apple to font you want",
+      "Category": "Font",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.9",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Icon/Icon.png",
+      "PackageID": "com.cggio.customizefont16",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Screen/Demo%201.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Screen/Demo%202.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/16/com.cggio.customizefont16.misaka"
         }
       ],
       "Caption": "Change font you want:\n- SFUISoft\n- SFUI\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps\nOther languages ​​I don't know. Good support Vietnamese language and all English language"
