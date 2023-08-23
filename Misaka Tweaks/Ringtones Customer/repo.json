@@ -419,6 +419,11 @@
           "Version": "1.0",
           "Description": "Frist tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/com.cggio.customizefont15.misaka"
+        },
+        {
+          "Version": "1.1",
+          "Description": "Add delete caches keyboards",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/1.1/com.cggio.customizefont15.misaka"
         }
       ],
       "Caption": "Change font you want:\n- SFUISoft\n- SFUI\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps\nOther languages ​​I don't know. Good support Vietnamese language and all English language"
