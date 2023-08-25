@@ -6,7 +6,8 @@
     <string>DNS by Hùng Anhh ❤️</string>
     <key>PayloadDescription</key>
     <string>DNS Chặn Thu Hồi Chứng Chỉ Makeby Hùng Anhh ❤️
-👉 Cài đặt khi App đang còn sống, không có tác dụng khi App đã chết
+👉 Không dùng VPN khi đang chặn thu hồi
+👉 Cài đặt khi App và chứng chỉ free đang còn sống, không có tác dụng khi App và chứng chỉ free đã chết
 👉 Khi chứng chỉ Free đã chết khởi động lại điện thoại App sẽ vẫn chết, nên tuyệt đối không khởi động lại thì mới bất tử nha.</string>
     <key>PayloadIdentifier</key>
     <string>io.nextdns.42b95c.profile</string>
