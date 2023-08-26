@@ -458,6 +458,37 @@
         }
       ],
       "Caption": "Change font you want:\n- SFUISoft\n- SFUI\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps\nOther languages ​​I don't know. Good support Vietnamese language and all English language"
+    },
+    {
+      "Author": {
+        "Label": "CG Gió",
+        "Links": [
+          {
+            "Label": "CG Gió",
+            "Link": "https://www.facebook.com/MinhThinh14021997"
+          }
+        ]
+      },
+      "Name": "Customize Dialer and Passcode",
+      "Description": "Change default Dialer & Passcode to theme you want ",
+      "Category": "Other",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "19.9",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Passcode%20%26%20Dialer/Icon/Icon.png",
+      "PackageID": "com.cggio.customizedialerandpasscode",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Screen/Demo%201.PNG",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Screen/Demo%202.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Version 1.0 support file: other",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Passcode%20%26%20Dialer/Version/Other/com.cggio.customizedialerandpasscode.misaka"
+        }
+      ],
+      "Caption": "Change theme Dialer and Passcode you want 🥰\n\nThanks for p0s3id0n and Huy Nguyễn helping me complete the tweak perfectly 🥰\n\nVersion update pleas read:\n- 1.0 support file: other ( Việt Nam,… )\n- 1.1 support file: en ( English )\n- 1.2 support file. other bold ( China, Taiwan,… )\n\nOther languages ​​I don't know the value\n\n#CG Gió"
     }
   ]
 }
