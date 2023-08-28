@@ -473,7 +473,7 @@
       "Description": "Change default Dialer & Passcode to theme you want ",
       "Category": "Other",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "19.9",
+      "MaxIOSVersion": "16.7",
       "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Passcode%20%26%20Dialer/Icon/Icon.png",
       "PackageID": "com.cggio.customizedialerandpasscode",
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Bia.JPG",
