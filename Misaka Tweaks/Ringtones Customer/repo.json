@@ -66,6 +66,36 @@
       "MaxIOSVersion": "16.1.2"
     },
     {
+      "Name": "Apple Wallet BG",
+      "Description": "Beautify your wallet",
+      "Category": "Settings",
+      "Caption": "Beautify your wallet background sp MDC.\nMakeby Hùng Anhh ❤️",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/scrs.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/v1/com.hunganh.walletbg.misaka",
+          "Description": "Simple Card"
+        }
+      ],
+      "PackageID": "com.hunganh.walletbg",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/demo.JPG",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2"
+    },
+    {
       "Author": {
         "Label": "CG Gió",
         "Links": [
