@@ -288,6 +288,11 @@
           "Version": "1.0",
           "Description": "Frist tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Version/com.cggio.quicksandfont.misaka"
+        },
+        {
+          "Version": "1.1",
+          "Description": "Add Delete Caches Keyboards",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Version/1.1/com.cggio.quicksandfont.misaka"
         }
       ],
       "Caption": "Thank you, Uncle Phúc ( p0s3id0n ) for taking the time to edit the font\nLove you so much 😍\nChange:\n- SFUI\n- SFUISoft\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps"
