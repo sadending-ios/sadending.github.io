@@ -303,7 +303,7 @@
         ]
       },
       "Name": "Tekto Pro",
-      "Description": "Change default Apple font to Quick Sand font",
+      "Description": "Change default Apple font to Tekto Pro font",
       "Category": "Font",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.7",
