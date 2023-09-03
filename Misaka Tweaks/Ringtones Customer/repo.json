@@ -66,6 +66,36 @@
       "MaxIOSVersion": "16.1.2"
     },
     {
+      "Name": "Apple Wallet BG",
+      "Description": "Beautify your wallet",
+      "Category": "Settings",
+      "Caption": "Beautify your wallet\nJust one card 🌚\n\n⭕️ Important note for kfd exploit device :\n• Error maybe occur if the size of your new image is too large\n• Please try again with other image.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/scrs.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/v1/com.hunganh.walletbg.misaka",
+          "Description": "Just One Card"
+        }
+      ],
+      "PackageID": "com.hunganh.walletbg",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/demo.JPG",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.7"
+    },
+    {
       "Author": {
         "Label": "CG Gió",
         "Links": [
@@ -931,36 +961,6 @@
         }
       ],
       "Caption": "Thank you, Uncle Phúc ( p0s3id0n ) for taking the time to edit the font\nLove you so much 😍\nChange:\n- SFUI\n- Keycaps\n- KeyCapPad\n- PhoneKeyCaps"
-    },
-    {
-      "Author": {
-        "Label": "Hùng Anhh ♡",
-        "Links": [
-          {
-            "Label": "Hùng Anhh ♡",
-            "Link": "https://www.facebook.com/profile.php?id=100013250296791"
-          }
-        ]
-      },
-      "Name": "Apple Wallet BG",
-      "Description": "Just One Card",
-      "Category": "Settings",
-      "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
-      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/icon.png",
-      "PackageID": "com.hunganh.walletbg",
-      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/demo.JPG",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/scrs.PNG"
-      ],
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Description": "Frist Tweak",
-          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/v1/com.hunganh.walletbg.misaka"
-        }
-      ],
-      "Caption": "Beautiful your wallet\nJussmt one card"
     }
   ]
 }
