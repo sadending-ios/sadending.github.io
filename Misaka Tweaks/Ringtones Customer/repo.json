@@ -97,6 +97,36 @@
       "MaxIOSVersion": "16.1.2"
     },
     {
+      "Name": "Springboard CL",
+      "Description": "If you are too bored with the default color on your phone. Try it.",
+      "Category": "Settings",
+      "Caption": "Custome Colour in :\n• Dock\n• Home Bar\n• Control Center\n• Multitasking\n• Notification\n• 3D Touch Layout\n• Folder and Background\n• App Library\n• Spotlight Area.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v1/icon.jpg",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v1/com.hunganh.springboardcl.misaka",
+          "Description": "Beta Release"
+        }
+      ],
+      "PackageID": "com.hunganh.springboardcl",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v1/Header.jpg",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6b1"
+    },
+    {
       "Author": {
         "Label": "CG Gió & p0s3id0n",
         "Links": [
