@@ -97,6 +97,37 @@
       "MaxIOSVersion": "16.1.2"
     },
     {
+      "Name": "Apple Wallet BG (kfd)",
+      "Description": "Beautify your wallet",
+      "Category": "Settings",
+      "Caption": "Beautify your wallet\nJust one card 🌚",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/3FC35070-40A9-4CC6-B96C-6641BE04679D.png",
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/scrs.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/v1/kfd/com.hunganh.walletbgkfd.misaka",
+          "Description": "Just One Card"
+        }
+      ],
+      "PackageID": "com.hunganh.walletbgkfd",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Wallet%20GB/demo.JPG",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6b1"
+    },
+    {
       "Name": "Springboard CL",
       "Description": "If you are too bored with the default color on your phone. Try it.",
       "Category": "Settings",
