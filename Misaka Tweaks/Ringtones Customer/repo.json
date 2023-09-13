@@ -188,6 +188,36 @@
       "MaxIOSVersion": "16.6b1"
     },
     {
+      "Name": "CPBITMAP",
+      "Description": "Setup Light/Dark wallpaper using .cpbitmap",
+      "Category": "Settings",
+      "Caption": "Setup Light/Dark wallpaper using .cpbitmap\nThis method is only supported iOS 15.\nIf you have any question, dm me!~ Author Item.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/CPBITMAP/v1/icon.PNG",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/CPBITMAP/v1/com.hunganh.cpbitmap.misaka",
+          "Description": "Beta Release"
+        }
+      ],
+      "PackageID": "com.hunganh.cpbitmap",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://t.me/sadendins"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/CPBITMAP/v1/header.jpg",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.9"
+    },
+    {
       "Author": {
         "Label": "CG Gió & p0s3id0n",
         "Links": [
