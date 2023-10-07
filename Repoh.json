@@ -809,6 +809,40 @@
         }
       ],
       "Caption": "Thank you Uncle Phúc for creating the font 😍"
+    },
+    {
+      "Author": {
+        "Label": "",
+        "Links": [
+          {
+            "Label": "",
+            "Link": ""
+          },
+          {
+            "Label": "",
+            "Link": ""
+          }
+        ]
+      },
+      "Name": "Lobster",
+      "Description": "",
+      "Category": "Font",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Lobster/icon.jpg",
+      "PackageID": "com.lobster.font",
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Lobster/header.jpg",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Description": "Frist Tweak",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Lobster/com.lobster.font.misaka"
+        }
+      ],
+      "Caption": ""
     }
   ]
 }
