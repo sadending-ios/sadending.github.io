@@ -137,6 +137,11 @@
           "Version": "1.0",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v1/com.hunganh.springboardcl.misaka",
           "Description": "Beta Release"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v2/com.hunganh.springboardcl.misaka",
+          "Description": "+ Clean Pod Module"
         }
       ],
       "PackageID": "com.hunganh.springboardcl",
@@ -167,6 +172,11 @@
           "Version": "1.0",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v1/kfd/com.hunganh.springboardclkfd.misaka",
           "Description": "Beta Release"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/SpringboardCL/v2/com.hunganh.springboardclkfd.misaka",
+          "Description": "+ Clean Pod Module"
         }
       ],
       "PackageID": "com.hunganh.springboardclkfd",
@@ -809,40 +819,6 @@
         }
       ],
       "Caption": "Thank you Uncle Phúc for creating the font 😍"
-    },
-    {
-      "Author": {
-        "Label": "",
-        "Links": [
-          {
-            "Label": "",
-            "Link": ""
-          },
-          {
-            "Label": "",
-            "Link": ""
-          }
-        ]
-      },
-      "Name": "Lobster",
-      "Description": "",
-      "Category": "Font",
-      "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Lobster/icon.jpg",
-      "PackageID": "com.lobster.font",
-      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Lobster/header.jpg",
-      "Screenshot": [
-
-      ],
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Description": "Frist Tweak",
-          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Lobster/com.lobster.font.misaka"
-        }
-      ],
-      "Caption": ""
     }
   ]
 }
