@@ -154,6 +154,36 @@
       "MaxIOSVersion": "15.9"
     },
     {
+      "Name": "CCURLScheme",
+      "Description": "Open URL Scheme from Control Center",
+      "Category": "Settings",
+      "Caption": "Open URL Scheme from Control Center\nIf you have any question, dm me!~ Author Item.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/CCURLScheme/icon.png",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/CCURLScheme/v1/com.hunganh.CCURLScheme.misaka",
+          "Description": "Beta Release"
+        }
+      ],
+      "PackageID": "com.hunganh.CCURLScheme",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://t.me/sadendins"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/CCURLScheme/header.jpg",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.7"
+    },
+    {
       "Author": {
         "Label": "CG Gió & p0s3id0n",
         "Links": [
