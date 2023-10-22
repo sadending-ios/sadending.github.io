@@ -287,7 +287,7 @@
       "Name": "Text Somewhere",
       "Description": "Modify text somewhere - iOS 15 only.",
       "Category": "Settings",
-      "Caption": "Download 1.0 version for Vietnamese and 2.0 version for English.\nIf you have any question, dm me!~ Author Item.",
+      "Caption": "Download 1.0 version for Vietnamese, 2.0 version for English and other Languages.\nIf you have any question, dm me!~ Author Item.",
       "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/icon.png",
       "Screenshot": [
 
@@ -301,7 +301,7 @@
         {
           "Version": "2.0",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/en/v1/com.hunganh.TextSomewhere.misaka",
-          "Description": "English"
+          "Description": "English and others"
         }
       ],
       "PackageID": "com.hunganh.TextSomewhere",
@@ -317,6 +317,41 @@
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/header.jpg",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.9"
+    },
+    {
+      "Name": "Text Somewhere 16",
+      "Description": "Modify text somewhere - iOS 16 only.",
+      "Category": "Settings",
+      "Caption": "Download 1.0 version for Vietnamese, 2.0 version for English and other Languages.\nIf you have any question, dm me!~ Author Item.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/icon.png",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/vi/v2/com.hunganh.TextSomewhere.misaka",
+          "Description": "Vietnamese"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/en/v2/com.hunganh.TextSomewhere.misaka",
+          "Description": "English and others"
+        }
+      ],
+      "PackageID": "com.hunganh.TextSomewhere16",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://t.me/sadendins"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/header.jpg",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.7"
     },
     {
       "Author": {
