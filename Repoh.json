@@ -366,7 +366,12 @@
         {
           "Version": "1.0",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Disable%20Tiktok%20Font/v1/com.hunganh.tiktokfontdisable.misaka",
-          "Description": "Beta"
+          "Description": "com.zhiliaoapp.musically"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Disable%20Tiktok%20Font/v2/com.hunganh.tiktokfontdisable.misaka",
+          "Description": "com.ss.iphone.ugc.Ame"
         }
       ],
       "PackageID": "com.hunganh.tiktokfontdisable",
