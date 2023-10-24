@@ -214,6 +214,71 @@
       "MaxIOSVersion": "16.7"
     },
     {
+      "Name": "Text Somewhere",
+      "Description": "Modify text somewhere - iOS 15 only.",
+      "Category": "Settings",
+      "Caption": "Download 1.0 version for Vietnamese, 2.0 version for English and other Languages.\nIf you have any question, dm me!~ Author Item.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/icon.png",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/vi/v1/com.hunganh.TextSomewhere.misaka",
+          "Description": "Vietnamese"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/en/v1/com.hunganh.TextSomewhere.misaka",
+          "Description": "English and others"
+        }
+      ],
+      "PackageID": "com.hunganh.TextSomewhere",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://t.me/sadendins"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Text%20Somewhere/header.jpg",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.9"
+    },
+    {
+      "Name": "Disable Tiktok Font",
+      "Description": "Allow tiktok font to be compatible with other Font Manager Tweaks",
+      "Category": "Settings",
+      "Caption": "Disable default font and allow tiktok font to be compatible with other Font Manager Tweaks\nIf you have any question, dm me!~ Author Item.",
+      "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Disable%20Tiktok%20Font/icon.PNG",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Disable%20Tiktok%20Font/v1/com.hunganh.tiktokfontdisable.misaka",
+          "Description": "Beta Release"
+        }
+      ],
+      "PackageID": "com.hunganh.tiktokfontdisable",
+      "Author": {
+        "Label": "Hùng Anhh ♡",
+        "Links": [
+          {
+            "Label": "Hùng Anhh ♡",
+            "Link": "https://t.me/sadendins"
+          }
+        ]
+      },
+      "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Disable%20Tiktok%20Font/header.jpg",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.7"
+    },
+    {
       "Author": {
         "Label": "CG Gió & p0s3id0n",
         "Links": [
