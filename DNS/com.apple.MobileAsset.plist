@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MobileAssetAssetAudience</key>
+	<string>65254ac3-f331-4c19-8559-cbe22f5bc1a6</string>
+	<key>MobileAssetSUAllowOSVersionChange</key>
+	<false/>
+	<key>MobileAssetSUAllowSameVersionFullReplacement</key>
+	<false/>
+	<key>MobileAssetServerURL-com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain</key>
+	<string>https://mesu.apple.com/assets/tvOS17DeveloperSeed</string>
+	<key>MobileAssetServerURL-com.apple.MobileAsset.RecoveryOSUpdate</key>
+	<string>https://mesu.apple.com/assets/tvOS17DeveloperSeed</string>
+	<key>MobileAssetServerURL-com.apple.MobileAsset.RecoveryOSUpdateBrain</key>
+	<string>https://mesu.apple.com/assets/tvOS17DeveloperSeed</string>
+	<key>MobileAssetServerURL-com.apple.MobileAsset.SoftwareUpdate</key>
+	<string>https://mesu.apple.com/assets/tvOS17DeveloperSeed</string>
+</dict>
+</plist>
