@@ -8,7 +8,7 @@ IPA 文件安装器
 */
 
 var port_number = 8080
-var plist_url = "itms-services://?action=download-manifest&url=https://gist.githubusercontent.com/nameldk/4e759251c5e9613aeac3fe49ae22cf42/raw/7e9e8ad2e92bab57b7a2013eead45e5cdeed888f/jsbox_ipa_install.plist"
+https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Github/jsbox_ipa_install.plist"
 
 $app.strings = {
   "vi": {
